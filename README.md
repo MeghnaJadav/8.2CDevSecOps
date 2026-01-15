@@ -28,7 +28,6 @@ You can also run the MongoDB server individually via Docker, such as:
 docker run --rm -p 27017:27017 mongo:3
 ```
 
-
 ## Running with docker-compose
 ```bash
 docker-compose up --build
